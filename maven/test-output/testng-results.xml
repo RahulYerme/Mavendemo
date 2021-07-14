@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-14T10:46:53 IST" name="Suite" finished-at="2021-07-14T10:47:54 IST" duration-ms="61700">
+    <groups>
+    </groups>
+    <test started-at="2021-07-14T10:46:53 IST" name="Test" finished-at="2021-07-14T10:47:54 IST" duration-ms="61700">
+      <class name="maven.Maven">
+        <test-method signature="jenkins()[pri:0, instance:maven.Maven@57250572]" started-at="2021-07-14T10:46:53 IST" name="jenkins" finished-at="2021-07-14T10:47:54 IST" duration-ms="61669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins -->
+      </class> <!-- maven.Maven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
